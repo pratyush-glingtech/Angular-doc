@@ -28,4 +28,7 @@ Think of an Observable like a stream of data. It's like a pipe where data flows 
 1. Listen to the data as it changes.
 2. React whenever new data arrives.
 3. Handle the data in a way that is clean and organized.
+   
 Imagine you’re watching a weather station. The Observable is the station, and the data it provides is like weather updates — each update could be rain, snow, sunshine, etc. You can "subscribe" to the weather station, and whenever there’s a new update, you’ll get it instantly.
+
+## RxJS
